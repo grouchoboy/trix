@@ -6,7 +6,7 @@ with open("README.md", "r") as f:
 
 setuptools.setup(
     name="trix",
-    version="0.0.1",
+    version="0.0.2",
     author="Manu Pascual",
     author_email="mpascual@stackscale.com",
     description="My first pypi package",
