@@ -1,0 +1,5 @@
+build/
+dist/
+.vscode/
+/trix.egg-info/
+Pipfile
